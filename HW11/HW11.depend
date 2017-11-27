@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1511783034 source:c:\users\user\desktop\algo\hw11\hw11\main.c
+	<stdio.h>
+	<stdlib.h>
+
